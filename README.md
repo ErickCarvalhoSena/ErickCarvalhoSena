@@ -1,16 +1,21 @@
-## Hi there 👋
+👨‍💻 Erick Sena
 
-<!--
-**ErickCarvalhoSena/ErickCarvalhoSena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor de software em formação, focado na construção de aplicações back-end e no domínio de fundamentos sólidos de programação.
 
-Here are some ideas to get you started:
+Atualmente em transição de carreira para tecnologia, com aprendizado orientado à prática, desenvolvimento contínuo e foco em escrever código limpo, eficiente e escalável.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 🚀 Tecnologias
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+ 🎯 Objetivo
+
+Consolidar minha carreira em desenvolvimento de software, atuando na construção de sistemas robustos e bem estruturados, com foco em back-end e evolução técnica contínua.
+
+ 📫 Contato
+
+- LinkedIn: (adicione seu link aqui)
+- Email: (opcional)
