@@ -17,5 +17,5 @@ Consolidar minha carreira em desenvolvimento de software, atuando na construçã
 
  📫 Contato
 
-- LinkedIn: (adicione seu link aqui)
-- Email: (opcional)
+- LinkedIn: (linkedin.com/in/ericky-sena)
+- Email: (erick087sena@gmail.com)
