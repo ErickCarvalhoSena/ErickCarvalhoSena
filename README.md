@@ -7,9 +7,9 @@ Atualmente em transição de carreira para tecnologia, com aprendizado orientado
  🚀 Tecnologias
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![C#](https://skillicons.dev/icons?i=cs&theme=dark)
+![.NET](https://skillicons.dev/icons?i=dotnet&theme=dark)
+![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
 
  🎯 Objetivo
 
