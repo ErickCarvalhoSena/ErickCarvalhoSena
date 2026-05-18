@@ -7,9 +7,9 @@ Atualmente em transição de carreira para tecnologia, com aprendizado orientado
  🚀 Tecnologias
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://skillicons.dev/icons?i=cs&theme=dark)
-![.NET](https://skillicons.dev/icons?i=dotnet&theme=dark)
-![MySQL](https://skillicons.dev/icons?i=mysql&theme=dark)
+< img src = " https://devicon-website.vercel.app/api/csharp/original.svg " > </img>
+< img src = " https://devicon-website.vercel.app/api/dotnetcore/original.svg " > </img>
+< img src = " https://devicon-website.vercel.app/api/mysql/original.svg " > </img>
 
  🎯 Objetivo
 
